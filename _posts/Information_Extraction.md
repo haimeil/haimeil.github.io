@@ -1,4 +1,4 @@
-```
+
 ---
 layout:     post
 title:      Information Extraction
@@ -6,12 +6,12 @@ subtitle:   Named Entity Reginition, Relation Extraction
 date:       2019-05-03
 author:     Haimei
 header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+catalog: true
 tags:
     - Web Search and Text Analysis
     - nlp
 ---
-```
+
 
 
 
