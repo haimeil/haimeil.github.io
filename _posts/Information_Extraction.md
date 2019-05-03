@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Information Extraction
@@ -11,8 +10,6 @@ tags:
     - Web Search and Text Analysis
     - nlp
 ---
-
-
 
 
 # Information Extraction
