@@ -1,10 +1,10 @@
 # Site settings
-title: MIA'S Blog
-SEOTitle: 海媚的博客 | BY Blog
+title: Haimei'S Blog
+SEOTitle: Haimei's Blog
 header-img: img/desktop.jpg
 email: liuhaimei522@gmail.com
 description: "I want to gain weights."
-keyword: "MIA, MIA Blog, 米啊的博客, mia"
+keyword: "Haimei, Haimei Blog, 米啊的博客, mia"
 url: "http://haimeil.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haimeil/haimeil.github.io.git" # you code repository
